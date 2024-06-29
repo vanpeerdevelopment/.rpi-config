@@ -1,0 +1,15 @@
+# Tasks
+-[ ] learn about systemd, systemctl, inspect system
+-[ ] firewall ufw: open ports
+  -[ ] ssh only from local network
+-[ ] nginx as reverse proxy to correct running application on specific port
+  -[ ] learn about nginx config
+  -[ ] http allowed for rpi.local 
+  -[ ] configure ufw firewall: http local + https wan 
+-[ ] asdf? -> node, npm, pnpm, python, java
+-[ ] docker? -> to run applications with different framework versions?
+-[ ] pm2 process management
+-[ ] Install maze
+-[ ] DNS
+-[ ] nginx + certbot for applications + only https over wan
+-[ ] Port forwarding Telenet

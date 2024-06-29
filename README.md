@@ -16,5 +16,7 @@ Readme and Dotfiles for my Raspberry Pi 5
 - Interfaces > SSH: enabled
 - Network > WiFi: disabled
 
-## Connect using SSH
-`ssh dieter@rpi.local`
+## raspi-config
+These configurations can also be done from te command line
+- `ssh -i ~/.ssh/rpi dieter@rpi.local`
+- `sudo raspi-config`
