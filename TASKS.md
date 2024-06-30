@@ -6,9 +6,9 @@
   -[ ] learn about nginx config
   -[ ] http allowed for rpi.local 
   -[ ] configure ufw firewall: http local + https wan 
--[ ] asdf? -> node, npm, pnpm, python, java
 -[ ] docker? -> to run applications with different framework versions?
 -[ ] pm2 process management
+  -[ ] pm2.io 
 -[ ] Install maze
 -[ ] DNS
 -[ ] nginx + certbot for applications + only https over wan
